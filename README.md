@@ -1,4 +1,4 @@
-- 👋  Hello there! , I’m sunil Panda!!
+- **👋  Hello there! , I’m sunil Panda!!**
 - 👀 I’m interested in Biomechanics + Machine Learning 
 - 🌱 I’m currently learning DeepLearing (tensorflow, Keras, Pytourch) Transformers 
 - 💞️ I’m looking to collaborate on ML in Biomedical Applications.
