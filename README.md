@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=+Hello+there!+I%E2%80%99m+Sunil+Kumar+Panda!!)](https://git.io/typing-svg)
 
-#- **👋  Hello there! , I’m sunil Panda!!**
 - 👀 I’m interested in Biomechanics + Machine Learning 
 - 🌱 I’m currently learning DeepLearing (tensorflow, Keras, Pytourch) Transformers 
 - 💞️ I’m looking to collaborate on ML in Biomedical Applications.
