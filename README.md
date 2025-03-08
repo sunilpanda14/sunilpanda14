@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines= Hello+there;I'm+ Sunil+Kumar+Panda)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hello+there;I'm+Sunil+Kumar+Panda)](https://git.io/typing-svg)
 
 #- **👋  Hello there! , I’m sunil Panda!!**
 - 👀 I’m interested in Biomechanics + Machine Learning 
