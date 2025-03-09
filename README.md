@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=+Hello+there!+I%E2%80%99m+Sunil+Kumar+Panda.)] 👋(https://git.io/typing-svg)
+![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=+Hello+there!+I%E2%80%99m+Sunil+Kumar+Panda.)
 
 ## 💫 About Me
 
@@ -56,12 +56,13 @@ Machine learning platform for spine implants to predict mechanical failure point
 ### SpidyTough
 Biomimetic research project inspired by spider silk properties, focusing on developing ultra-strong and flexible materials for medical applications using machine learning to optimize polymer structures.
 
+<!-- 
 ## 📚 Recent Publications & Articles
 
 - [Title of Publication/Article 1](#) - Journal/Platform, Date
 - [Title of Publication/Article 2](#) - Journal/Platform, Date
 - [Title of Publication/Article 3](#) - Journal/Platform, Date
-
+-->
 ## 🌐 Connect With Me
 
 <div align="center">
