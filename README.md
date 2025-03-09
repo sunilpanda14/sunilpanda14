@@ -1,10 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=+Hello+there!+I%E2%80%99m+Sunil+Kumar+Panda.)](https://git.io/typing-svg)
-
-# Hello World! 👋 I'm Sunil Kumar Panda
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sunilpanda14/sunilpanda14/main/header_image.png" alt="Header image" width="800"/>
-</div>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=06161D&width=435&lines=+Hello+there!+I%E2%80%99m+Sunil+Kumar+Panda.)] 👋(https://git.io/typing-svg)
 
 ## 💫 About Me
 
